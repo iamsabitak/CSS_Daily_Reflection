@@ -21,5 +21,9 @@ li b a {
     text-decoration: none;
     display: flex;
 }
+.search{
+text-align: right;
+font-size: larger;
+}
 
 
